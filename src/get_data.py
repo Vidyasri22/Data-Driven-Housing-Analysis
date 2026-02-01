@@ -71,7 +71,7 @@ def demo_data(url, headers, save_path, file_name):
 url_IL = "https://data.ca.gov/api/3/action/datastore_search?resource_id=c8c8bee2-96a6-410f-b32a-2039de52ea12&limit=500"
 headers = {
     "accept": "application/json",
-    "X-Api-Key": "05237d509fa24fec86aeed72176e59a0"
+    "X-Api-Key": " "
 }
 save_IL = r"C:\Users\user1\OneDrive\Documents\University of Southern Calfornia\Spring 24\DSCI 510\project\data\raw\Demographic data"
 
