@@ -18,5 +18,3 @@ After installing all the dependencies
 2. Run the script clean_data.py with the command: 'path_to_the_folder_src\python clean_data.py'
 3. Run the script integrate_data.py with the command: 'path_to_the_folder_src\python integrate_data.py'
 4. Download and Run the jupyter notebook in src folder with file reading from folder 'data\processed\final_merged_data.csv'
-
-## All the CSV files and XLSX files are manually downloaded from the respective websites and pushed into data/raw folder as mentioned in the report.
